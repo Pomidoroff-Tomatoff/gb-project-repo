@@ -1,6 +1,6 @@
 # gb-project-repo
 
--# GeekBrains HTML/CSS интерактивный курс
+# GeekBrains HTML/CSS интерактивный курс
 
 Преподаватель: Алексей Кадочников
 part-1
